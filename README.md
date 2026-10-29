@@ -53,6 +53,10 @@ This project demonstrates the design and configuration of a small office network
 - Network topology screenshots
 - Configuration notes and testing results
 
+- ## Network Topology
+
+![Small Office Network](screenshots/network-topology.png)
+
 ## Author
 **Amaan Ali**  
 Aspiring Cloud & Network Engineer
