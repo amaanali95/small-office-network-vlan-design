@@ -55,7 +55,7 @@ This project demonstrates the design and configuration of a small office network
 
  ## Network Topology
 
-![Small Office Network](small-office-network.pkt)
+![Small Office Network](screenshots/network-topology.png)
 
 ## Author
 **Amaan Ali**  
